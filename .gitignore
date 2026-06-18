@@ -4,5 +4,7 @@ dist/
 e2e/screenshots/
 e2e/videos/
 e2e/test-results/
+test-results/
+downloaded_page/
 *.log
 .DS_Store
